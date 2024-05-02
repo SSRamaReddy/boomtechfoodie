@@ -7,7 +7,7 @@ const ServicesData = [
   {
     id: 1,
     img: Img1,
-    name: "Chivcken Biryani",
+    name: "Chicken Biryani",
     description:
       "A fragrant rice dish cooked with marinated chicken, aromatic spices, and herbs, originating from the Indian subcontinent"
   },
